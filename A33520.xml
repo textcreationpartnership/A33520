@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent by Col. Cobbet from the General Council of Officers to Gen. Monk with his ansvver to the said letter, dated at Edinburgh Octob. 27, 1659 : together with a letter intended to have been sent from the militia of London, to General Monk, and the officers under his command in Scotland.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33520</idno>
+            <idno type="STC">Wing C4774</idno>
+            <idno type="STC">ESTC R23383</idno>
+            <idno type="EEBO-CITATION">12761246</idno>
+            <idno type="OCLC">ocm 12761246</idno>
+            <idno type="VID">93502</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93502)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 377:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent by Col. Cobbet from the General Council of Officers to Gen. Monk with his ansvver to the said letter, dated at Edinburgh Octob. 27, 1659 : together with a letter intended to have been sent from the militia of London, to General Monk, and the officers under his command in Scotland.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+                  <author>Committee for the Militia of London.</author>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93502:1"/>
+            <pb facs="tcp:93502:1" rendition="simple:additions"/>
+            <p>A LETTER SENT BY COL. COBBET FROM THE General Council of OFFICERS TO GEN. MONK. WITH HIS ANSVVER To the ſaid LETTER, Dated at <hi>Edinburgh</hi> Octob. 27. 1659.</p>
+            <p>
+               <hi>Together with</hi> A LETTER intended to have been ſent from the Militia of <hi>London,</hi> to General <hi>MONK,</hi> and the Officers under his Command in <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <div type="letter">
+               <pb facs="tcp:93502:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:93502:2"/>
+               <head>A LETTER from ſome Officers at <hi>Whitehal,</hi> to the Commander in Chief of the Forces in <hi>Scotland,</hi> to be communicated to the Officers of the Army there.</head>
+               <opener>
+                  <salute>GENTLEMEN,</salute>
+               </opener>
+               <p>VVE hold it a duty incumbent upon us, in order to the preſerving the Peace of this Commonwealth, as well as to give you ſatisfaction in an extraordinary paſ<g ref="char:EOLhyphen"/>ſage of Providence that lately hath befallen us, which nothing but neceſſity and ſence of duty could have prevailed with us to have undertaken.</p>
+               <p>Of late, the old ſpirit of Malignancy in all parts of the Nation appeared as well in the old profeſſed Adverſaries, as Neuters and pretended friends, who, having ſworn a confederacy and ſecreſie, and fitted and prepared them<g ref="char:EOLhyphen"/>ſelves to have ſwallowed up the Intereſt of the good people of this Com<g ref="char:EOLhyphen"/>monwealth, through the bleſſing of God were prevented in very many places; only in Cheſhire they got an head, as we preſume you have long ſince heard. Againſt which force, the Lord <hi>Lambert</hi> was ſent with a Bri<g ref="char:EOLhyphen"/>gade, who (with the hazard of all that was dear to them) with chearful<g ref="char:EOLhyphen"/>neſs undertook that ſervice: And God having, according to his wonted kindneſs, given an iſſue to that undertaking (even when the enemy conclu<g ref="char:EOLhyphen"/>ded of ſucceſs) The Officers there, weighing their duty in improving that ſignal mercy, and conſidering how craftily thoſe that bore to the Adverſary good-will in former times, had by fair ſpeeches, pretences and ſuggeſtions, cheated us of our hopes and expectations; and finding the diſeaſe more ge<g ref="char:EOLhyphen"/>neral than was to be ſuppoſed to be underſtood by the Patliament, did a<g ref="char:EOLhyphen"/>gree upon an humble Petition and Propoſals to them: with a very ſober and Chriſtian Letter, ſending the ſaid Petition and Propoſals in the ſaid Letter to the Lord <hi>Fleetwood,</hi> with a deſire, that if he thought it fit, it might be communicated to a General Councill of Officers for their appro<g ref="char:EOLhyphen"/>bation. His Lordſhip forthwith communicated the ſaid Letter and Paper to Sir <hi>Arthur Heſilrig,</hi> with a deſire, that himſelf, Sir <hi>Henry Vane,</hi> and Ma<g ref="char:EOLhyphen"/>jor <hi>Salwey,</hi> would give his Lordſhip a meeting, to conſider what was fit to be done therein, who promiſed to anſwer his Lordſhips deſire: But not<g ref="char:EOLhyphen"/>withſtanding in ſtead thereof, the next day the ſaid Sir <hi>Arthur</hi> acquainted the Houſe, (for what reaſon we know not) of the ſaid Paper, and that there was a dangerous deſign among thoſe faithful Servants of the Com<g ref="char:EOLhyphen"/>monwealth. Upon which rumors were ſpread abroad of introducing a Go<g ref="char:EOLhyphen"/>vernment by a ſingle Perſon (which was directly contrary to the ſcope and deſire of the ſaid Paper) Whereupon the Houſe ordered an Admonition to be given to the Officers of the Army; and reproachful ſpeeches were fre<g ref="char:EOLhyphen"/>quently
+<pb n="2" facs="tcp:93502:3"/>caſt up and down of ſending the Lord <hi>Lambert</hi> to the <hi>Tower,</hi> and that ſome of the chief Officers in the ſaid Brigade deſerved to be hang'd, drawn and quartered. By all which, we cleerly perceived, the deſign was either to divide between the Parliament and the Army, or between the Army and the good People of the Nation, or the Army within its ſelf. Upon which the Officers here met, and agreed upon an humble Repreſentation and Petition, which they delivered to the Houſe, and had their Thanks, with a promiſe that their Propoſals in the ſaid Petiti<g ref="char:EOLhyphen"/>en ſhould be taken into conſideration: At which General Council (to the end that nothing might be done by us, but what you might have full knowledge of) directions were given for ſending the ſame, together with the reaſons and grounds thereof ſent unto you. One of which Letters being ſent to Col. <hi>Okeys</hi> Regiment, was brought into the Houſe by a member thereof. The Houſe thereupon declared the Lord <hi>Fleetwood</hi>'s Commiſ<g ref="char:EOLhyphen"/>ſion void, together with the Commiſſions of the Lord <hi>Lambert,</hi> Major Genral <hi>Disbrow,</hi> and ſeven more Field Officers. And all this was done without ſo much as hearing them ſpeak one ward for themſelves, or ex<g ref="char:EOLhyphen"/>amining whether the names, ſubſcribed to the ſaid Letter, were the hand<g ref="char:EOLhyphen"/>writing of the ſaid Officers, and all ariſing upon the ſame matter, for which, before they had given Thanks to the Army (an ill requital for their unwearied pains for the ſervice of this Commonwealth) And ſome who ſeemed more eager to inflict puniſhment upon thoſe Officers that ſub<g ref="char:EOLhyphen"/>dued the common Enemy, then upon the common Enemy by them ſub<g ref="char:EOLhyphen"/>dued, had ſo contrived it, that the Regiment commanded by Collonel <hi>Morley</hi> (who, with ſix others, were appointed to command the Army) was brought on for the Guard of the Houſe, ſix or ſeven Barrels of Powder laid in, together with proviſions, in order to the effectual proſecution of the ſaid Deſign.</p>
+               <p>So ſoon as the Officers had the knowledg of theſe proceedings, and finding all once more laid at ſtake, reſolved to truſt the Lord with the Iſſue, and took Armes for the preſervation of the good People, and Peace of theſe Nations, and have put a ſtop to the ſitting of the Parliament for the preſent, concluding it a betraying of that Cauſe and Intereſt, more pre<g ref="char:EOLhyphen"/>cious then our lives, and for which we have often jeoparded us all, to ſuf<g ref="char:EOLhyphen"/>fer this Army, that God hath made the Bulwark of the Peace of the Na<g ref="char:EOLhyphen"/>tion, to be divided and broken, to anſwer the ends and deſigns of evil<g ref="char:EOLhyphen"/>minded men. And therefore upon the whole, Our humble requeſt to you is, That you would not haſtily judg this Action; It being our de<g ref="char:EOLhyphen"/>ſire and deſign to approve our hearts to God, that our end is the Glory of God, the Peace of theſe Nations, and the ſettlement thereof in the way of a Common-wealth, without a ſingle Perſon, or Houſe of Peers. And therefore whatever reports or ſuggeſtions the Enemy may raiſe to the con<g ref="char:EOLhyphen"/>trary; We deſire you would give no place or credit thereunto. But in your ſeveral places ſtrive to preſerve the Peace, and to ſuppreſs any tur<g ref="char:EOLhyphen"/>bulent or diſcontented Spirit, or contrivance of the Enemy, under what name or appearance ſoever it ſhall ſhow it ſelf: In order to which the Of<g ref="char:EOLhyphen"/>ficers here, at a General Council, have with an unanimous conſent ac<g ref="char:EOLhyphen"/>knowledged and owned the Lord <hi>Fleetwood,</hi> Commander in Chief of the
+<pb n="3" facs="tcp:93502:3"/>Army, and declared their reſolution to obey no other Orders, but what ſhall be given or communicated by his Lordſhip; and to look on thoſe that are contrary minded, as diſturbers of the Peace of the Army; and further have under conſideration what may be neceſſary and fit, in Order to the ſpeedy and effectual ſettlement of the Armies and this Common-wealth. And for your more full and clear Information in theſe things, We have ſent you Copies of our ſaid Repreſentation, and Petition, and Letters, upon which the Houſe paſſed the ſaid Votes. We ſhall add no more, but commend you to the Lord, and deſire your Prayers that God would now appear in giving wiſdome and underſtanding, that we may know what to do, and find his preſence with us in our undertakings, that the end of this may be his Glory, the comfort of thoſe that fear the Lord, and the Peace and good ſettlement of this Common-wealth. For a more particular ac<g ref="char:EOLhyphen"/>count of affairs here at preſent; We refer you to the bearer hereof, Col. <hi>Cobbet,</hi> to whom we deſire you will give credit: We remain,</p>
+               <closer>
+                  <signed>
+                     <hi>Your affectionate Friends and Servants.</hi>
+                     <list>
+                        <item>
+                           <hi>John Diſbrow.</hi>
+                        </item>
+                        <item>
+                           <hi>Ja. Berry.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. Maſon</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Salmon.</hi>
+                        </item>
+                        <item>
+                           <hi>Charles Fleetwood.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Kelſey.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. Duckenfield.</hi>
+                        </item>
+                        <item>
+                           <hi>Jer. Camfeild.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Theſe for the Right Honourable General <hi>Monck,</hi> to be by him Communicated to the reſt of the Officers of the Army in <hi>Scotland.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:93502:4"/>
+               <head>An ANSWER of the Commander in Chief and Officers of the Forces in <hi>Scotland;</hi> To a LETTER from ſome Officers at <hi>White-hall.</hi>
+               </head>
+               <opener>
+                  <salute>GENTLEMEN,</salute>
+               </opener>
+               <p>VVIth how great reluctancy we put Pen to Paper againſt you, our ſad hearts, which are ſtill firmly united to you in the ſame bond of love as ever, can bear us witneſs; yet, that we may not be wanting in our duty to God, our Country and Poſterities in a day of ſo great tryal as is come upon us; we are conſtrained to bear our Teſtimony againſt your late violent proceedings upon the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> for which proceedings we confeſs our ſelves altogether ignorant of a warrantable ground (notwithſtanding the account you have given us) either from Scripture, Reaſon, or Neceſſity: For, ſuppoſe the account you have given us of that Action to be impartial (which yet we think we have ſome ground to ſuſpect.) We would gladly know what ground there could be of ſending about your late <hi>Petition</hi> and <hi>Repreſentation,</hi> to create Greatneſs and Power in Men (a thing of dangerous conſequence) after you had received the Parliaments Anſwer thereunto?</p>
+               <p>If you avow the Thanks of the Houſe? We anſwer, Thoſe had no rela<g ref="char:EOLhyphen"/>tion to the matter of the <hi>Petition;</hi> for that they gave their ſence of that before, <hi>viz.</hi> That it was <hi>Dangerous, Chargeable, and Uſeleſs to make more General Officers than they had made:</hi> Their Thanks were onely for your good expreſſions in the <hi>Petition,</hi> whereof they could not but have theſe eſpecially in their conſideration, <hi>viz.</hi> your acknowledging them the Su<g ref="char:EOLhyphen"/>pream Authority of theſe Nations, and your ſelves their faithfull and obe<g ref="char:EOLhyphen"/>dient Servants: Now by appointing a Committee to Recommend that <hi>Petition</hi> to all Regiments for Subſcriptions, after ſo great a progreſs made in it by a few, and the Parliaments Negative ſence declared of it, What could there be in deſign, but a ſtirring up the Army againſt the Parlia<g ref="char:EOLhyphen"/>ment? This we cannot but take notice of, as a conſiderable circumſtance in the management of that affair. To the matter it ſelf of the <hi>Petition,</hi> we mean onely, that of appointing General Officers, we think we have juſt cauſe to declare our diſlike: And we cannot but wonder, how ſuch as have ſo lately eſcaped out of the Tyranny of an abſolute Monarch, where<g ref="char:EOLhyphen"/>unto by their own too credulous inclinations they unhappily fell, ſhould again carry ſo many materials for the building up of that they have ſo lately deſtroyed: The beſt of men, we know, are ſubject to many fail<g ref="char:EOLhyphen"/>ings; and how this Army and theſe poor Nations have already been chea<g ref="char:EOLhyphen"/>ted with ſpecious pretences, the ſad Revolutions theſe five years laſt paſt do ſufficiently evidence. No doubt many pious men were made to believe, after the former Interruption of this Parliament, That the Yoke ſhould
+<pb n="5" facs="tcp:93502:4"/>be taken off the neck of the Oppreſſed, none but Faithfull and Godly men kept in Authority, and ſundry other promiſes of like import; and no ſooner was that work done, but all the Godly in the Land were anima<g ref="char:EOLhyphen"/>ted in their differences, many faithfull ones in the A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my and Navy, and in Civil Judicatories ſhamefully removed, many precious ones ſent to loathſome Gaols, very few, ſave Court-compliers, countenanced; till our Yoke was become heavier then what our Fathers Necks had been ac<g ref="char:EOLhyphen"/>cuſtomed to; and an Officer of the Army as contemptible and odious in the eyes of the <hi>Honeſt Party</hi> in <hi>England,</hi> as a <hi>Janizary</hi> at <hi>Conſtantinople,</hi> and ſcarcely known o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſtinguiſh: by any other title: There are living Teſtimonies among your ſelves, which, to their ſad experience, can put their Seal to theſe truths; Watneſs Lord <hi>Lambert,</hi> Col. <hi>Overton,</hi> Col. <hi>Rich,</hi> Col. <hi>Okey,</hi> Col. <hi>Saunders,</hi> Col. <hi>Alared,</hi> Col. <hi>Packer</hi> and his Of<g ref="char:EOLhyphen"/>ficers, Sir <hi>Henry Vane,</hi> Maj. Gen. <hi>Harriſon,</hi> Mr. <hi>Carew,</hi> Quartermaſter General <hi>Courtney,</hi> with many others which would be too long to inſert. And is Servitade and Oppreſſion already become ſo deſirable a thing, that it muſt be courted and petitioned for? What can ſo readily create Servi<g ref="char:EOLhyphen"/>tude, as the contracting the Power of the Nation in ſo narrow a ſpace as a Single Perſon, or a few of any one Faction? Will not this be to Rule the reſt of the Nation with a Rod of Iron? For, can any thing but Force ſupport ſuch a Government? yea, ſuch a Force as muſt begger our ſelves and poſterities, in a very few years, even to their skins? We beſeech you lay theſe things ſincerely upon your hearts, and let not the ancient Foundation of our Liberties (we mean the Authority of Parliaments) be deſtroyed, or made contemptible: You cannot but acknowledge, that the bleſſing of God was on us in all our publick enterprizes, whileſt we ſtood by them, and as great a withdrawing of His preſence from us, when we fell from them. We were told by yours of late, that the <hi>Malignant Party</hi> were grown ſo high, that ſuch as were inſtrumental in bringing the King to Juſtice, and eſtabliſhing the Government in a Commonwealth, were marked out for deſtruction, and like to be expoſed to the Rage of their Enemies: We beſeech you look narrowly into your own hearts, and then tell us by whom they are ſo expoſed at this time, and what other Conſequent of it can be, but the heightning of the ſpirits of the <hi>Malig<g ref="char:EOLhyphen"/>nant Party;</hi> for the encouragement of which Intereſt, we think the wit of man could not have deviſed a more effectual mean, then the Interrup<g ref="char:EOLhyphen"/>tion of the Parliament, wherein (by your own confeſſion) you have reſiſted the Supream Authority of the Nation, and conſequently the Or<g ref="char:EOLhyphen"/>dinance of God, not to be juſtified by the higheſt neceſſity. We there<g ref="char:EOLhyphen"/>fore intreat you with all earneſtneſs of ſpirit, That as you love the Inte<g ref="char:EOLhyphen"/>reſt of Gods People, the Peace and Liberty of theſe Nations, and the quiet of your Conſciences, when you ſhall be drawing near to the cloſe of your dayes, That you would ſpeedily invite the Members of Parliament to return to the diſcharge of their Duties, in that Freedome and Liberty in which the S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pream Authority of theſe Nations ought to ſit: And we do aſſure you, that touching the Officers of the Army, upon whom their late Votes of Diſmiſſion were paſt, none ſhall interpoſe with greater vi<g ref="char:EOLhyphen"/>gour and zeal for the continuance of them in their Commands, and for
+<pb facs="tcp:93502:5" rendition="simple:additions"/>an Act of Indempnity and Oblivion, then our ſelves: And in all other things that may conduce to the Union of the Army, and of the good Peo<g ref="char:EOLhyphen"/>ple of the Land, and to the eſtabliſhing the Kingdome of Chriſt in righ<g ref="char:EOLhyphen"/>teouſneſs and peace amongſt us, we will go hand in hand with you. Mean while, our Prayers to God ſhall be for the guidance of his Spirit both to you and us: To which good Spirit we recommend you, and remain,</p>
+               <closer>
+                  <signed>Your affectionate Friends and Servants,</signed> 
+                  <dateline>
+                     <hi>Edinburgh,</hi> 
+                     <date>Octob. 27. 1659.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>For the Right Honourable the Lord <hi>Fleetwood,</hi> To be communicated to the Officers of the Army at <hi>Whitehall.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <head>The Subſtance of a Letter intended to have been ſent from the Militia of <hi>London,</hi> to General <hi>Monk</hi> and the Offi<g ref="char:EOLhyphen"/>cers under his Command in <hi>Scotland.</hi>
+               </head>
+               <opener>
+                  <salute>GENTLEMEN,</salute>
+               </opener>
+               <p>WE underſtand, That you are preparing to march with an Army into England, having diſplaced and impriſoned ſeveral Officers of the Army of known Integrity to the Com<g ref="char:EOLhyphen"/>monwealth, and appointed others in their Commands; And that you are making great and warlike Preparations hereunto; Which as things now ſtand, we cannot but judg very threatning to the Peace of this Nation. We obſerve alſo the general expectations of the old common Enemy growing big hereupon. Notwithſtan<g ref="char:EOLhyphen"/>ding, we ſhall not take upon us to cenſure the Integrity of your Intentions; but having received Authority from Parliament to Suppreſs all Inſurrections and Invaſions, and to preſerve the Peace of our Country, and being ſenſible of the ſad effects of ſuch Pro<g ref="char:EOLhyphen"/>ceedings; We think fit to preſent unto you our earneſt deſires, as you tender the Glory of God, the Peace of your Native Coun<g ref="char:EOLhyphen"/>try, the juſt Intereſt and Liberty of the People, the guilt of <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Blood like to be ſpilt, and the ſad Conſequences of another W<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. That you would pleaſe to ſet free the ſaid Officers from their Im<g ref="char:EOLhyphen"/>priſonments, reſtoring them to their Commands, and deſiſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your further Acting<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in that kind. However, we hold our ſelvs bound in Duty and Conſcience in our Places and Capacities, to endeavor to the utmoſt the preſervation of the Peace of our Country, as well as of this City, againſt all perſons, that under what ſpecious pretences ſoever ſhall diſturb or Invade the ſame.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93502:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
